@@ -1,1 +1,2 @@
-Innawersja tego pliku nadpisze poprzednią.
+Dodanie nowej, eksperymanetalnej funkcjonalności.
+
